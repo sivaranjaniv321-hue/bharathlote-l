@@ -1,0 +1,6 @@
+{
+  "name": "Bharath Delights",
+  "description": "Traditional Tamil Nadu restaurant website and online food ordering platform for Bharath Delights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
